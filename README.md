@@ -13,13 +13,13 @@ An Agentic AI system that automatically researches topics, gathers information f
 
 ## Architecture
 User Input
-    ↓
+→
 Planner Agent
-    ↓
+→
 Research Agent
-    ↓
+→
 Writer Agent
-    ↓
+→
 Final Research Report
 
 ## Tech Stack
